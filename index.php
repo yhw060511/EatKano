@@ -3,7 +3,7 @@
 
 <head>
     <title>吃掉张博</title>
-    <meta itemprop="name" content="吃掉小张博" />
+    <meta itemprop="name" content="吃掉张博" />
     <meta itemprop="description" content="师院附音游" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
